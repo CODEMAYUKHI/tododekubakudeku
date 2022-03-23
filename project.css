@@ -1,0 +1,22 @@
+.heading
+{
+    font-size: 23px;
+    width:100%;
+    margin:0px;
+    box-shadow:5px 5px 5px rgb(0, 0, 0);
+
+}
+
+.notes{
+    font-size:15px;
+    color:rgb(255, 0, 0);
+}
+.copy_right_foot{
+    position:fixed;
+    color:rgb(0, 247, 255);
+    bottom:0;
+    width:100%;
+    background: rgb(240, 93, 183);
+    line-height:3;
+    text-align:center;
+}
